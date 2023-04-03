@@ -12,6 +12,6 @@
     },
     "rootDir": "."
   },
-  "include": ["packages", "stories"],
+  "include": ["packages", "stories", "demos"],
   "exclude": ["node_modules"]
 }
